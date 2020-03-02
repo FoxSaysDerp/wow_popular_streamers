@@ -6,7 +6,7 @@ import plotly.graph_objs as go
 import requests
 
 # twitch api login
-client_id = 'u1blxt4cu9hmu7g75u1p4jc31g22n0'
+client_id = 'X'
 headers = {'Client-ID': client_id}
 games_url = 'https://api.twitch.tv/helix/games'
 streams_url = 'https://api.twitch.tv/helix/streams'
